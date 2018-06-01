@@ -1,0 +1,33 @@
+body {
+  width: 450px;
+  height: 350px;
+}
+
+h1 {
+	font-family:Times New Roman;
+	}
+
+
+#plot {
+	width: 100%;
+	margin: auto;
+}
+
+/*.infolayer [class^='y'][class$='title'] {
+  transform: rotate(0deg) translate(200px, -145px);
+}
+
+.infolayer [class^='x'][class$='title'] {
+  transform: rotate(0deg) translate(160px, -190px);
+}*/
+
+#title {
+	font-size: 23px;
+	text-align: center;
+	padding: 20px;
+}
+
+.wrapper {
+	text-align: center;
+	padding: 10px;
+}
